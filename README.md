@@ -15,7 +15,7 @@ This repository serves as a central hub for all assignments and projects complet
 
 Here is a list of assignments and projects included in this repository:
 
-1. [Assignment 1:](link_to_assignment_1) Brief description of Assignment 1.
+1. [Assignment 1:](https://github.com/Jitu0110/CIS554_OOP_Cpp/tree/main/Assignment1) Implement merge function.
 2. [Assignment 2:](link_to_assignment_2) Brief description of Assignment 2.
 3. ...
 
