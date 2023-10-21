@@ -1,4 +1,3 @@
-//HW1: due Friday September 15,  at 11:59pm
 /*
 Implement member functions and  Merge.  Your implementation has to be in-place.
 You are required to implement the Merge algorithm to be described in class.
