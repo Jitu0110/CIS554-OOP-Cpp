@@ -1,0 +1,98 @@
+Constructor
+Initializer List
+DB1: 
+Semester: 20221
+GPA: 3.67
+Credits: 9
+(WRT205 5 3 A) (CSE661 1 3 B+) (PSY205 11 3 A-) 
+
+Semester: 20222
+GPA: 3.70
+Credits: 10
+(CIS554 1 3 A-) (CSE674 1 3 B+) (MAT296 8 4 A) 
+
+Semester: 20231
+GPA: 3.63
+Credits: 10
+(MAT297 8 4 B+) (CIS341 1 3 A-) (CIS453 1 3 A) 
+
+
+Constructor
+Copy Constructor
+DB2: 
+Semester: 20221
+GPA: 3.67
+Credits: 9
+(WRT205 5 3 A) (CSE661 1 3 B+) (PSY205 11 3 A-) 
+
+Semester: 20222
+GPA: 3.70
+Credits: 10
+(CIS554 1 3 A-) (CSE674 1 3 B+) (MAT296 8 4 A) 
+
+Semester: 20231
+GPA: 3.63
+Credits: 10
+(MAT297 8 4 B+) (CIS341 1 3 A-) (CIS453 1 3 A) 
+
+
+Constructor
+Copy Constructor
+DB3: 
+Semester: 20221
+GPA: 3.67
+Credits: 9
+(WRT205 5 3 A) (CSE661 1 3 B+) (PSY205 11 3 A-) 
+
+Semester: 20222
+GPA: 3.70
+Credits: 10
+(CIS554 1 3 A-) (CSE674 1 3 B+) (MAT296 8 4 A) 
+
+Semester: 20231
+GPA: 3.63
+Credits: 10
+(MAT297 8 4 B+) (CIS341 1 3 A-) (CIS453 1 3 A) 
+
+
+Copy Assignment
+DB3: 
+Semester: 20221
+GPA: 3.67
+Credits: 9
+(WRT205 5 3 A) (CSE661 1 3 B+) (PSY205 11 3 A-) 
+
+Semester: 20222
+GPA: 3.70
+Credits: 10
+(CIS554 1 3 A-) (CSE674 1 3 B+) (MAT296 8 4 A) 
+
+Semester: 20231
+GPA: 3.63
+Credits: 10
+(MAT297 8 4 B+) (CIS341 1 3 A-) (CIS453 1 3 A) 
+
+
+Constructor
+Copy Constructor
+RemoveFirst
+Move Assignment
+Destructor
+2
+DB3: 
+Semester: 20222
+GPA: 3.70
+Credits: 10
+(CIS554 1 3 A-) (CSE674 1 3 B+) (MAT296 8 4 A) 
+
+Semester: 20231
+GPA: 3.63
+Credits: 10
+(MAT297 8 4 B+) (CIS341 1 3 A-) (CIS453 1 3 A) 
+
+
+Destructor
+Destructor
+Destructor
+
+Process finished with exit code 0
