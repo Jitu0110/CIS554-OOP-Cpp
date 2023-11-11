@@ -3,7 +3,7 @@
 Welcome to the CIS 554 C++ Class Assignments repository! This repository is dedicated to storing and organizing assignments and projects completed during the CIS 554 C++ class.
 
 NOTE:
-All questions and assignments in this repository are provided by Prof. Roger Chen. His contributions, guidance, and expertise have been invaluable in shaping these assignments and fostering a deep understanding of C++ concepts.
+All questions and assignments in this repository are provided by Prof. Roger Chen (https://ecs.syracuse.edu/faculty-staff/c-y-roger-chen). His contributions, guidance, and expertise have been invaluable in shaping these assignments and fostering a deep understanding of C++ concepts.
 
 ## Table of Contents
 
