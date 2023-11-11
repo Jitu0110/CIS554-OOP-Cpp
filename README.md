@@ -2,6 +2,9 @@
 
 Welcome to the CIS 554 C++ Class Assignments repository! This repository is dedicated to storing and organizing assignments and projects completed during the CIS 554 C++ class.
 
+NOTE:
+All questions and assignments in this repository are provided by Prof. Roger Chen. His contributions, guidance, and expertise have been invaluable in shaping these assignments and fostering a deep understanding of C++ concepts.
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -17,6 +20,9 @@ Here is a list of assignments and projects included in this repository:
 
 1. [Assignment 1:](https://github.com/Jitu0110/CIS554_OOP_Cpp/tree/main/Assignment1) Implement merge function.
 2. [Assignment 2:](https://github.com/Jitu0110/CIS554_OOP_Cpp/tree/main/Assignment2) Design database to store student course and semester data with GPA, Credits.
-3. ...
+3. [Assignment 3:](https://github.com/Jitu0110/CIS554_OOP_Cpp/tree/main/Assignment3) Continuation of Assignment 2: Implement copy constructor, copy assignment, move constructor, move assignment, destructor, RemoveFirst.
+4. [Assignment 4:](https://github.com/Jitu0110/CIS554_OOP_Cpp/tree/main/Assignment4) Implement initializer_list for the given tree structure to generate a binary tree from its inorder representation.
+5. [Assignment 5:](https://github.com/Jitu0110/CIS554_OOP_Cpp/tree/main/Assignment5) For the class triangle, implement constructor, copy constructor, move constructor, copy assignment,
+move assignment, destructor, FirtThreeRow. Only use Smart Pointers.
 
 Feel free to explore each assignment's directory for more details and the source code.
